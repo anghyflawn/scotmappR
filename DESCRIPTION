@@ -1,0 +1,10 @@
+Package: scotmappR
+Title: Map of pre-1890 Scottish counties for use with ggplot2
+Version: 0.0.0.9000
+Authors@R: person("Pavel", "Iosad", email = "pavel.iosad@ed.ac.uk", role = c("aut", "cre"))
+Description: The package provides a scotland_df object that contains the coordinates and a convenience function scocounties that creates a ggplot object suitable for mapping
+Depends: R (>= 3.0.0)
+License: GPLv3
+Encoding: UTF-8
+LazyData: true
+Depends: ggplot2
